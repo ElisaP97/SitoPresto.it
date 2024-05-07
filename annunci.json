@@ -1,0 +1,427 @@
+[
+    {
+        "id":1,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Huawei X5",
+        "category": "Elettronica",
+        "price": "120.12",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 2,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Fiat 500",
+        "category": "Motori",
+        "price": "2000.32",
+        "categoryForm": "Portachiavi"
+    },
+    {
+        "id": 3,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Mazza da Baseball",
+        "category": "Sport",
+        "price": "20.15",
+        "categoryForm": "Sottobicchieri"
+    },
+    {
+        "id": 4,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Bilocale",
+        "category": "Immobili",
+        "price": "30000.54",
+        "categoryForm": "Mestoli"
+    },
+    {
+        "id": 5,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Felpa usata",
+        "category": "Abbigliamento",
+        "price": "10.42",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 6,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Divani due posti",
+        "category": "Arredamento",
+        "price":"400.64",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 7,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Pala",
+        "category": "Giardinaggio",
+        "price":"30.45",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 8,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Master of Pupo",
+        "category": "Musica",
+        "price": "15.64",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 9,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "TV Samsung",
+        "category": "Elettronica",
+        "price": "230.42",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 10,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Ford Puma",
+        "category": "Motori",
+        "price": "25000.02",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 11,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Pallone da calcio",
+        "category": "Sport",
+        "price": "30.12",
+        "categoryForm": "Portachiavi"
+    },
+    {
+        "id": 12,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Trilocale",
+        "category": "Immobili",
+        "price": "55000.34",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 13,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Sciarpa scolorita",
+        "category": "Abbigliamento",
+        "price": "5.23",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 14,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Lampada",
+        "category": "Arredamento",
+        "price": "70.65",
+        "categoryForm": "Portachiavi"
+    },
+    {
+        "id": 15,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Concime",
+        "category": "Giardinaggio",
+        "price": "2.45",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 16,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Basso nuovo",
+        "category": "Musica",
+        "price": "300.62",
+        "categoryForm": "Portachiavi"
+    },
+    {
+        "id": 17,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Cuffie Sony",
+        "category": "Elettronica",
+        "price": "120.65",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 18,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Ducati Monster",
+        "category": "Motori",
+        "price": "12000.13",
+        "categoryForm": "Portachiavi"
+    },
+    {
+        "id": 19,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Pattini",
+        "category": "Sport",
+        "price": "90.64",
+        "categoryForm": "Quadretti"
+    },
+
+    {
+        "id": 21,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Guanti invernali",
+        "category": "Abbigliamento",
+        "price": "22.04",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 22,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Scrivania in vetro",
+        "category": "Arredamento",
+        "price": "600.63",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 23,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Secchio",
+        "category": "Giardinaggio",
+        "price": "30.43",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 24,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Compilation Pupo",
+        "category": "Musica",
+        "price": "9.93",
+        "categoryForm": "Portachiavi"
+    },
+    {
+        "id": 25,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Auricolari Sennheiser",
+        "category": "Elettronica",
+        "price": "120.93",
+        "categoryForm": "Mestoli"
+    },
+    {
+        "id": 26,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Fiat 300",
+        "category": "Motori",
+        "price": "2560.42",
+        "categoryForm": "Portachiavi"
+    },
+    {
+        "id": 27,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Set mazze da golf",
+        "category": "Sport",
+        "price": "4320.43",
+        "categoryForm": "Sottobicchieri"
+    },
+    {
+        "id": 28,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Posto augo",
+        "category": "Immobili",
+        "price": "2200.63",
+        "categoryForm": "Portachiavi"
+    },
+    {
+        "id": 29,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Zaino Decathlon",
+        "category": "Abbigliamento",
+        "price": "55.55",
+        "categoryForm": "Sottobicchieri"
+    },
+    {
+        "id": 30,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Comodino",
+        "category": "Arredamento",
+        "price": "210.12",
+        "categoryForm": "Portachiavi"
+    },
+    {
+        "id": 31,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Rastrello",
+        "category": "Giardinaggio",
+        "price": "5.62",
+        "categoryForm": "Sottobicchieri"
+    },
+    {
+        "id": 32,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Compilation Nino D'Angelo che ha un nome lungo",
+        "category": "Musica",
+        "price": "1.91",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 33,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "IPhone X",
+        "category": "Elettronica",
+        "price": "1300.41",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 34,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Nissan Juke",
+        "category": "Motori",
+        "price": "25420.40",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 35,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Guanti da palestra",
+        "category": "Sport",
+        "price": "11.54",
+        "categoryForm": "Portachiavi"
+    },
+
+    {
+        "id": 37,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Scarpe Nike",
+        "category": "Abbigliamento",
+        "price": "240.33",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 38,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Poltrona",
+        "category": "Arredamento",
+        "price": "420.66",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 39,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Semi",
+        "category": "Giardinaggio",
+        "price": "4.43",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 40,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Biglietto Gods Of Metal",
+        "category": "Musica",
+        "price": "150.65",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 41,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Macbook Pro",
+        "category": "Elettronica",
+        "price": "2340.37",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 42,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Dacia Duster",
+        "category": "Motori",
+        "price": "13350.73",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 43,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Canoa",
+        "category": "Sport",
+        "price": "520.03",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 44,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Cantina",
+        "category": "Immobili",
+        "price": "20000.12",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 45,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Jeans",
+        "category": "Abbigliamento",
+        "price": "55.54",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 46,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Lampadario",
+        "category": "Arredamento",
+        "price": "280.54",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 47,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Trattore",
+        "category": "Giardinaggio",
+        "price": "12000.09",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 48,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Plettro",
+        "category": "Musica",
+        "price": "0.99",
+        "categoryForm": "Quadretti"
+    },
+    {
+        "id": 49,
+        "img": "./img/da08c088-11c3-4519-84ec-4a594f6848d4.jpg",
+        "description" : "Qualcosa da scrivere riguardo al prodotto",
+        "name": "Modem",
+        "category": "Mimmo",
+        "price": "2.99",
+        "categoryForm": "Quadretti"
+    }
+]

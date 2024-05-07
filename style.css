@@ -1,0 +1,98 @@
+/* Color Theme Swatches in Hex */
+.Wood-1-hex { background-color: #A68053; }
+.Wood-2-hex { background-color: #C09E70; }
+.Wood-3-hex { background-color: #8C613B; }
+.Wood-4-hex { background-color: #402414; }
+.Wood-5-hex { background-color: #734429; }
+
+/* Color Theme Swatches in RGBA */
+.Wood-1-rgba { color: rgba(165, 128, 82, 1); }
+.Wood-2-rgba { color: rgba(191, 158, 112, 1); }
+.Wood-3-rgba { color: rgba(140, 96, 59, 1); }
+.Wood-4-rgba { color: rgba(63, 35, 19, 1); }
+.Wood-5-rgba { color: rgba(114, 68, 40, 1); }
+
+/* font-family: 'Supreme', sans-serif;
+font-family: 'Nunito', sans-serif; */
+
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+h1{ font-family: 'Supreme', sans-serif; }
+
+.btn-search{
+    border: 1px #C09E70 solid;
+}
+
+
+
+.dropdown-menu {
+    --bs-dropdown-bg: #C09E70;
+    background-color: #C09E70;
+}
+
+.social{
+    font-size: 30px;
+}
+
+.btn-search2{
+    border: 2px #402414 solid;
+    background-color: #C09E70;
+}
+
+.formshadow{
+    -webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0.32); 
+    box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0.32);
+}
+
+.pirografia{
+    width: 100%;
+    height: 80vh;
+    background-image:  linear-gradient(rgba(255, 255, 255,1), #c09f709e, #d0b48c37), url(./img/Pirografia_cosa-_come_iniziare.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    text-align: center;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, -2px 4px 4px 2px rgba(64,36,20,0.25); 
+    box-shadow: 0px 10px 13px -7px #000000, -2px 4px 4px 2px rgba(64,36,20,0.25);
+}
+
+.barsearch{
+    position: absolute;
+    width: 80%;
+    height: auto;
+    left: 10vw;
+    transition: 300ms;
+    z-index: 998;
+}
+
+.galleria{
+    border: 1px #402414 solid;
+    border-radius: 0 15px;
+    background-color: #C09E70;
+    
+}
+
+.galleria a{ 
+    color: #000000;
+    text-decoration: none;
+}
+
+
+
+.cardImage{
+    height: 20vh;
+    width: 20vh;
+    border-radius: 50%;
+    border: solid black 2px;
+    margin-bottom: 5vh;
+}
+
+.card{
+    height: 10vh;
+    width: 10vh;
+}
